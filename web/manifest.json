@@ -1,6 +1,6 @@
 {
-    "name": "mlsa_application",
-    "short_name": "mlsa_application",
+    "name": "mlsa_app",
+    "short_name": "mlsa_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-# mlsa_application
+# mlsa_app
 
 A new Flutter project.
 
